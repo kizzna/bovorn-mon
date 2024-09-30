@@ -1,7 +1,7 @@
-url: https://mon.bovorn.org/10.0.9.5.txt
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-30T13:48:02.384Z
+url: https://mon.watbovorn.org/10.0.9.5.txt
+status: up
+code: 200
+responseTime: 311
+lastUpdated: 2024-09-30T13:51:39.150Z
 startTime: 2024-09-30T13:48:02.160Z
 generator: Upptime <https://github.com/upptime/upptime>
