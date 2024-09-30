@@ -4,19 +4,19 @@
     "url": "https://mon.watbovorn.org/10.0.9.1.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mon.watbovorn.org.ico",
     "slug": "mon-001",
-    "status": "down",
-    "uptime": "85.48%",
-    "uptimeDay": "85.48%",
-    "uptimeWeek": "85.48%",
-    "uptimeMonth": "85.48%",
-    "uptimeYear": "85.48%",
-    "time": 910,
-    "timeDay": 910,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "status": "up",
+    "uptime": "75.83%",
+    "uptimeDay": "75.83%",
+    "uptimeWeek": "75.83%",
+    "uptimeMonth": "75.83%",
+    "uptimeYear": "75.83%",
+    "time": 914,
+    "timeDay": 914,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 33
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mon.watbovorn.org.ico",
     "slug": "mon-002",
     "status": "down",
-    "uptime": "85.52%",
-    "uptimeDay": "85.52%",
-    "uptimeWeek": "85.52%",
-    "uptimeMonth": "85.52%",
-    "uptimeYear": "85.52%",
+    "uptime": "75.71%",
+    "uptimeDay": "75.71%",
+    "uptimeWeek": "75.71%",
+    "uptimeMonth": "75.71%",
+    "uptimeYear": "75.71%",
     "time": 285,
     "timeDay": 285,
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 33
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mon.watbovorn.org/10.0.9.3.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mon.watbovorn.org.ico",
     "slug": "mon-003",
-    "status": "down",
-    "uptime": "85.56%",
-    "uptimeDay": "85.56%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "85.56%",
-    "uptimeYear": "85.56%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "75.85%",
+    "uptimeDay": "75.85%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "75.85%",
+    "uptimeYear": "75.85%",
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 33
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://mon.watbovorn.org/10.0.9.4.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mon.watbovorn.org.ico",
     "slug": "mon-004",
-    "status": "down",
-    "uptime": "85.60%",
-    "uptimeDay": "85.60%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "85.60%",
-    "uptimeYear": "85.60%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "75.85%",
+    "uptimeDay": "75.85%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "75.85%",
+    "uptimeYear": "75.85%",
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 33
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://mon.watbovorn.org/10.0.9.5.txt",
     "icon": "https://icons.duckduckgo.com/ip3/mon.watbovorn.org.ico",
     "slug": "mon-005",
-    "status": "down",
-    "uptime": "85.62%",
-    "uptimeDay": "85.62%",
-    "uptimeWeek": "85.62%",
-    "uptimeMonth": "85.62%",
-    "uptimeYear": "85.62%",
-    "time": 270,
-    "timeDay": 270,
-    "timeWeek": 270,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "status": "up",
+    "uptime": "75.84%",
+    "uptimeDay": "75.84%",
+    "uptimeWeek": "75.84%",
+    "uptimeMonth": "75.84%",
+    "uptimeYear": "75.84%",
+    "time": 271,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 33
     }
   }
 ]
