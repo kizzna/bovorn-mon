@@ -4,15 +4,15 @@ repo: bovorn-mon # The name of this repository
 
 sites:
   - name: Mon 001
-    url: https://mon_watbovorn_org/10_0_9_1.html
+    url: https://mon.watbovorn.org/10_0_9_1.html
   - name: Mon 002
-    url: https://mon_watbovorn_org/10_0_9_2.html
+    url: https://mon.watbovorn.org/10_0_9_2.html
   - name: Mon 003
-    url: https://mon_watbovorn_org/10_0_9_3.html
+    url: https://mon.watbovorn.org/10_0_9_3.html
   - name: Mon 004
-    url: https://mon_watbovorn_org/10_0_9_4.html
+    url: https://mon.watbovorn.org/10_0_9_4.html
   - name: Mon 005
-    url: https://mon_watbovorn_org/10_0_9_5.html
+    url: https://mon.watbovorn.org/10_0_9_5.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
