@@ -1,18 +1,47 @@
-# Change these first
-owner: kizzna # Your GitHub organization or username, where this repository lives
-repo: bovorn-mon # The name of this repository
+owner: kizzna
+repo: bovorn-mon
 
 sites:
-    - name: Mon 001
+    - name: MON 1
       url: $MON_URL/10_0_9_1.html
-    - name: Mon 002
+    - name: MON 2
       url: $MON_URL/10_0_9_2.html
-    - name: Mon 003
+    - name: MON 3
       url: $MON_URL/10_0_9_3.html
-    - name: Mon 004
+    - name: MON 4
       url: $MON_URL/10_0_9_4.html
-    - name: Mon 005
+    - name: MON 5
       url: $MON_URL/10_0_9_5.html
+    - name: MON 6
+      url: $MON_URL/10_0_9_6.html
+    - name: MON 7
+      url: $MON_URL/10_0_9_7.html
+    - name: MON 8
+      url: $MON_URL/10_0_9_8.html
+    - name: MON 9
+      url: $MON_URL/10_0_9_9.html
+    - name: MON 10
+      url: $MON_URL/10_0_9_10.html
+    - name: MON 11
+      url: $MON_URL/10_0_9_11.html
+    - name: MON 12
+      url: $MON_URL/10_0_9_12.html
+    - name: MON 13
+      url: $MON_URL/10_0_9_13.html
+    - name: MON 14
+      url: $MON_URL/10_0_9_14.html
+    - name: MON 15
+      url: $MON_URL/10_0_9_15.html
+    - name: MON 16
+      url: $MON_URL/10_0_9_16.html
+    - name: MON 17
+      url: $MON_URL/10_0_9_17.html
+    - name: MON 18
+      url: $MON_URL/10_0_9_18.html
+    - name: MON 19
+      url: $MON_URL/10_0_9_19.html
+    - name: MON 20
+      url: $MON_URL/10_0_9_20.html
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
