@@ -5,8 +5,8 @@ repo: bovorn-mon # The name of this repository
 sites:
     - name: Mon 001
       url: $MON_URL/10_0_9_1.html
-#    - name: Mon 002
-#      url: $MON_URL/10_0_9_2.html
+    - name: Mon 002
+      url: https://$MON_URL2/10_0_9_2.html
 #    - name: Mon 003
 #      url: $MON_URL/10_0_9_3.html
 #    - name: Mon 004
