@@ -2,46 +2,166 @@ owner: kizzna
 repo: bovorn-mon
 
 sites:
-    - name: MON 1
+    - name: MON-C 1
       url: $MON_URL/10_0_9_1.html
-    - name: MON 2
+    - name: MON-C 2
       url: $MON_URL/10_0_9_2.html
-    - name: MON 3
+    - name: MON-C 3
       url: $MON_URL/10_0_9_3.html
-    - name: MON 4
+    - name: MON-C 4
       url: $MON_URL/10_0_9_4.html
-    - name: MON 5
+    - name: MON-C 5
       url: $MON_URL/10_0_9_5.html
-    - name: MON 6
+    - name: MON-C 6
       url: $MON_URL/10_0_9_6.html
-    - name: MON 7
+    - name: MON-C 7
       url: $MON_URL/10_0_9_7.html
-    - name: MON 8
+    - name: MON-C 8
       url: $MON_URL/10_0_9_8.html
-    - name: MON 9
+    - name: MON-C 9
       url: $MON_URL/10_0_9_9.html
-    - name: MON 10
+    - name: MON-C 10
       url: $MON_URL/10_0_9_10.html
-    - name: MON 11
+    - name: MON-C 11
       url: $MON_URL/10_0_9_11.html
-    - name: MON 12
+    - name: MON-C 12
       url: $MON_URL/10_0_9_12.html
-    - name: MON 13
+    - name: MON-C 13
       url: $MON_URL/10_0_9_13.html
-    - name: MON 14
+    - name: MON-C 14
       url: $MON_URL/10_0_9_14.html
-    - name: MON 15
+    - name: MON-C 15
       url: $MON_URL/10_0_9_15.html
-    - name: MON 16
+    - name: MON-C 16
       url: $MON_URL/10_0_9_16.html
-    - name: MON 17
+    - name: MON-C 17
       url: $MON_URL/10_0_9_17.html
-    - name: MON 18
+    - name: MON-C 18
       url: $MON_URL/10_0_9_18.html
-    - name: MON 19
+    - name: MON-C 19
       url: $MON_URL/10_0_9_19.html
-    - name: MON 20
+    - name: MON-C 20
       url: $MON_URL/10_0_9_20.html
+    - name: MON-C 21
+      url: $MON_URL/10_0_9_21.html
+    - name: MON-C 22
+      url: $MON_URL/10_0_9_22.html
+    - name: MON-C 23
+      url: $MON_URL/10_0_9_23.html
+    - name: MON-C 24
+      url: $MON_URL/10_0_9_24.html
+    - name: MON-C 25
+      url: $MON_URL/10_0_9_25.html
+    - name: MON-C 26
+      url: $MON_URL/10_0_9_26.html
+    - name: MON-C 27
+      url: $MON_URL/10_0_9_27.html
+    - name: MON-C 28
+      url: $MON_URL/10_0_9_28.html
+    - name: MON-C 29
+      url: $MON_URL/10_0_9_29.html
+    - name: MON-C 30
+      url: $MON_URL/10_0_9_30.html
+    - name: MON-C 31
+      url: $MON_URL/10_0_9_31.html
+    - name: MON-C 32
+      url: $MON_URL/10_0_9_32.html
+    - name: MON-C 33
+      url: $MON_URL/10_0_9_33.html
+    - name: MON-C 34
+      url: $MON_URL/10_0_9_34.html
+    - name: MON-C 35
+      url: $MON_URL/10_0_9_35.html
+    - name: MON-C 36
+      url: $MON_URL/10_0_9_36.html
+    - name: MON-C 37
+      url: $MON_URL/10_0_9_37.html
+    - name: MON-C 38
+      url: $MON_URL/10_0_9_38.html
+    - name: MON-C 39
+      url: $MON_URL/10_0_9_39.html
+    - name: MON-C 40
+      url: $MON_URL/10_0_9_40.html
+    - name: MON-C 41
+      url: $MON_URL/10_0_9_41.html
+    - name: MON-C 42
+      url: $MON_URL/10_0_9_42.html
+    - name: MON-C 43
+      url: $MON_URL/10_0_9_43.html
+    - name: MON-C 44
+      url: $MON_URL/10_0_9_44.html
+    - name: MON-C 45
+      url: $MON_URL/10_0_9_45.html
+    - name: MON-C 46
+      url: $MON_URL/10_0_9_46.html
+    - name: MON-C 47
+      url: $MON_URL/10_0_9_47.html
+    - name: MON-C 48
+      url: $MON_URL/10_0_9_48.html
+    - name: MON-C 49
+      url: $MON_URL/10_0_9_49.html
+    - name: MON-C 50
+      url: $MON_URL/10_0_9_50.html
+    - name: MON-C 51
+      url: $MON_URL/10_0_9_51.html
+    - name: MON-C 52
+      url: $MON_URL/10_0_9_52.html
+    - name: MON-C 53
+      url: $MON_URL/10_0_9_53.html
+    - name: MON-C 54
+      url: $MON_URL/10_0_9_54.html
+    - name: MON-C 55
+      url: $MON_URL/10_0_9_55.html
+    - name: MON-C 56
+      url: $MON_URL/10_0_9_56.html
+    - name: MON-C 57
+      url: $MON_URL/10_0_9_57.html
+    - name: MON-C 58
+      url: $MON_URL/10_0_9_58.html
+    - name: MON-C 59
+      url: $MON_URL/10_0_9_59.html
+    - name: MON-C 60
+      url: $MON_URL/10_0_9_60.html
+    - name: MON-C 61
+      url: $MON_URL/10_0_9_61.html
+    - name: MON-C 62
+      url: $MON_URL/10_0_9_62.html
+    - name: MON-C 63
+      url: $MON_URL/10_0_9_63.html
+    - name: MON-C 64
+      url: $MON_URL/10_0_9_64.html
+    - name: MON-C 65
+      url: $MON_URL/10_0_9_65.html
+    - name: MON-C 66
+      url: $MON_URL/10_0_9_66.html
+    - name: MON-C 67
+      url: $MON_URL/10_0_9_67.html
+    - name: MON-C 68
+      url: $MON_URL/10_0_9_68.html
+    - name: MON-C 69
+      url: $MON_URL/10_0_9_69.html
+    - name: MON-C 70
+      url: $MON_URL/10_0_9_70.html
+    - name: MON-C 71
+      url: $MON_URL/10_0_9_71.html
+    - name: MON-C 72
+      url: $MON_URL/10_0_9_72.html
+    - name: MON-C 73
+      url: $MON_URL/10_0_9_73.html
+    - name: MON-C 74
+      url: $MON_URL/10_0_9_74.html
+    - name: MON-C 75
+      url: $MON_URL/10_0_9_75.html
+    - name: MON-C 76
+      url: $MON_URL/10_0_9_76.html
+    - name: MON-C 77
+      url: $MON_URL/10_0_9_77.html
+    - name: MON-C 78
+      url: $MON_URL/10_0_9_78.html
+    - name: MON-C 79
+      url: $MON_URL/10_0_9_79.html
+    - name: MON-C 80
+      url: $MON_URL/10_0_9_80.html
 
 status-website:
     # Add your custom domain name, or remove the `cname` line if you don't have a domain
