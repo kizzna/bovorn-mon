@@ -2,8 +2,6 @@ owner: kizzna
 repo: bovorn-mon
 
 sites:
-    - name: MON-8-1
-      url: $MON_URL/b294fa6c063c52c6.html
     - name: MON-8-11
       url: $MON_URL/e49a427f546380a2.html
     - name: MON-8-12
@@ -12,46 +10,6 @@ sites:
       url: $MON_URL/b42895fc15b15291.html
     - name: MON-8-14
       url: $MON_URL/b576b6317fe00336.html
-    - name: MON-8-36
-      url: $MON_URL/6476c6f5fdd6e69a.html
-    - name: MON-8-37
-      url: $MON_URL/20ea767a80622ae1.html
-    - name: MON-8-38
-      url: $MON_URL/b0838e50907fa574.html
-    - name: MON-8-39
-      url: $MON_URL/755b706710b410fd.html
-    - name: MON-8-40
-      url: $MON_URL/fc66071b1d66321e.html
-    - name: MON-8-42
-      url: $MON_URL/b152dc761a86597f.html
-    - name: MON-8-43
-      url: $MON_URL/053200da3d8a6f84.html
-    - name: MON-8-45
-      url: $MON_URL/6747b3c0187ca745.html
-    - name: MON-8-108
-      url: $MON_URL/36c10a856d03fd93.html
-    - name: MON-8-110
-      url: $MON_URL/441114fdc73506e3.html
-    - name: MON-8-113
-      url: $MON_URL/ec140f629e22124e.html
-    - name: MON-8-131
-      url: $MON_URL/50b32e28bef6d328.html
-    - name: MON-8-143
-      url: $MON_URL/7ef1be92fdbafc5f.html
-    - name: MON-8-153
-      url: $MON_URL/93ef453c0a8daa49.html
-    - name: MON-8-156
-      url: $MON_URL/bde1407547defc28.html
-    - name: MON-8-222
-      url: $MON_URL/68a098740030369b.html
-    - name: MON-8-223
-      url: $MON_URL/07c1f7af3522498d.html
-    - name: MON-8-225
-      url: $MON_URL/2b783b1a4d2a6df2.html
-    - name: MON-8-226
-      url: $MON_URL/d7f89fe606a5db11.html
-    - name: MON-8-227
-      url: $MON_URL/0fa1c02efccb3cbc.html
     - name: MON-9-1
       url: $MON_URL/dc10904dcec48a04.html
     - name: MON-9-2
@@ -212,18 +170,6 @@ sites:
       url: $MON_URL/8f27350f1e4a08bf.html
     - name: MON-9-80
       url: $MON_URL/15d1d09e1f891a08.html
-    - name: MON-9-211
-      url: $MON_URL/66cad919aefeadb5.html
-    - name: MON-9-212
-      url: $MON_URL/35d2412a3f636e0f.html
-    - name: MON-9-241
-      url: $MON_URL/a9caa3b1839a7069.html
-    - name: MON-9-242
-      url: $MON_URL/4f735c19a96114ff.html
-    - name: MON-9-251
-      url: $MON_URL/69d5814b179ed088.html
-    - name: MON-9-252
-      url: $MON_URL/88436356aa0ce9ec.html
 
 
 status-website:
