@@ -196,7 +196,7 @@
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-10-24": 460,
+      "2024-10-24": 467,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1013,9 +1013,9 @@
     "url": "$MON_URL/b509792c5b60e21d.html",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mon-9-51",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.27%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
@@ -1025,6 +1025,7 @@
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2024-10-24": 0,
       "2024-10-23": 40,
       "2024-10-22": 63
     }
@@ -1147,18 +1148,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mon-9-58",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.67%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 205,
     "timeDay": 212,
     "timeWeek": 203,
     "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-10-24": 7,
       "2024-10-23": 43,
       "2024-10-22": 60
     }
