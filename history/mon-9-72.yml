@@ -1,7 +1,7 @@
 url: $MON_URL/1b05d6400b0e6889.html
-status: down
-code: 404
+status: up
+code: 200
 responseTime: 223
-lastUpdated: 2024-10-25T08:32:51.123Z
+lastUpdated: 2024-10-25T08:42:20.448Z
 startTime: 2024-10-02T09:08:02.940Z
 generator: Upptime <https://github.com/upptime/upptime>
