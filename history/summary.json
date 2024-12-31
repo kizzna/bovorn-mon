@@ -202,7 +202,7 @@
     "timeMonth": 209,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-12-31": 450,
+      "2024-12-31": 457,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -819,7 +819,7 @@
     "uptime": "74.99%",
     "uptimeDay": "0.95%",
     "uptimeWeek": "0.41%",
-    "uptimeMonth": "28.09%",
+    "uptimeMonth": "28.08%",
     "uptimeYear": "74.99%",
     "time": 205,
     "timeDay": 181,
@@ -827,7 +827,7 @@
     "timeMonth": 207,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-12-31": 450,
+      "2024-12-31": 458,
       "2024-12-30": 1426,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -1599,19 +1599,19 @@
     "url": "$MON_URL/fcc684322dcee05d.html",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mon-9-74",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 188,
-    "timeWeek": 202,
-    "timeMonth": 209,
+    "timeDay": 181,
+    "timeWeek": 198,
+    "timeMonth": 208,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-12-31": 1
+      "2024-12-31": 7
     }
   },
   {
